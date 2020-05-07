@@ -8,8 +8,7 @@ job1 : deploy_master
      
        
 job2 : deploy_dev1  
-![Image]
-https://github.com/shubham1224/git-jenkins-automation/blob/master/img1%20(1).jpg
+![](Images/"img1 (5).jpg")
 job3 : merge_branch
 
  
