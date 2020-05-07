@@ -8,7 +8,7 @@ job1 : deploy_master
      
        
 job2 : deploy_dev1  
-![](Images/"img5.jpg")
+![image](Images/img5.jpg)
 job3 : merge_branch
 
  
